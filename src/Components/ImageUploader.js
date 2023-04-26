@@ -55,7 +55,6 @@ export default function ImageUploader(props) {
             {renderUploadedImages()}
           </Box>
         </Box>
-
       </Paper>
 
       <Box sx={{my:1}}>
